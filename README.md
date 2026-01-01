@@ -39,7 +39,7 @@ A minimalist typing speed test application built with React. Practice your typin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/keyshift.git
+git clone https://github.com/nimone/keyshift.git
 cd keyshift
 ```
 
